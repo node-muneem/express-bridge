@@ -1,5 +1,5 @@
 {
-  "name": "express-bridge",
+  "name": "express-muneem-bridge",
   "version": "1.0.0",
   "description": "Transform express middleware in muneem middleware",
   "main": "bridge.js",
@@ -14,6 +14,14 @@
   ],
   "author": "Amit Gupta (http://amitkumargupta.work)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/node-muneem/express-muneem-bridge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/node-muneem/express-muneem-bridge/issues"
+  },
+  "homepage": "https://github.com/node-muneem/express-muneem-bridge",
   "devDependencies": {
     "chai": "^4.2.0",
     "chai-http": "^4.2.0",
