@@ -1,0 +1,23 @@
+{
+  "name": "express-bridge",
+  "version": "1.0.0",
+  "description": "Transform express middleware in muneem middleware",
+  "main": "bridge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "bridge",
+    "muneem",
+    "middleware"
+  ],
+  "author": "Amit Gupta (http://amitkumargupta.work)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.0",
+    "cookie-parser": "^1.4.3",
+    "muneem": "^2.4.1"
+  }
+}

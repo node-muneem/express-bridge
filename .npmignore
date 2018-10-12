@@ -1,0 +1,12 @@
+benchmark
+coverage
+spec
+tests
+docs
+node_modules
+.*
+lib
+todo.md
+.nyc_output
+.vscode
+test.js
